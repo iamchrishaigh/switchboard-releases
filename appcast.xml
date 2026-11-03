@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Switchboard 0.1.2</title>
+      <pubDate>Tue, 03 Nov 2026 23:21:41 GMT</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Other Macs can now connect to the brain: Switchboard finds this Mac's Tailscale address again.</p>]]></description>
+      <enclosure url="https://github.com/iamchrishaigh/switchboard-releases/releases/download/v0.1.2/Switchboard.dmg" type="application/octet-stream" sparkle:edSignature="/LgaYFSRAxLKVbwBamd/D2/bxzgqz13JQfiEXXq+sSJFOiuE//Ni73OPUlSyi5RicPYrpLpANZHSWXChJ97BDA==" length="21171816"/>
+    </item>
+    <item>
       <title>Switchboard 0.1.1</title>
       <pubDate>Tue, 03 Nov 2026 23:13:56 GMT</pubDate>
       <sparkle:version>47</sparkle:version>
