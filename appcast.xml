@@ -6,5 +6,14 @@
     <description>Switchboard updates</description>
     <language>en</language>
     <!-- releases, newest first -->
+    <item>
+      <title>Switchboard 0.1</title>
+      <pubDate>Tue, 03 Nov 2026 23:02:54 GMT</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The first release of Switchboard. Drag it into Applications and open it.</p>]]></description>
+      <enclosure url="https://github.com/iamchrishaigh/switchboard-releases/releases/download/v0.1/Switchboard.dmg" type="application/octet-stream" sparkle:edSignature="lhb6HWfqMUBJIVmO4bYXpLQkvnmNZmGa1jSANQ+iUCrW24Oxx7cxrqduKnCuj475fQeHrOyYeZvRESlzcj1mAQ==" length="21171237"/>
+    </item>
   </channel>
 </rss>
