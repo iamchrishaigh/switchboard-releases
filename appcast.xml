@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Switchboard 0.2</title>
+      <pubDate>Wed, 04 Nov 2026 21:36:33 GMT</pubDate>
+      <sparkle:version>104</sparkle:version>
+      <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The assistant: one conversation with Claude on Home and in a side panel (⌘J), the same on every Mac. It answers questions, starts chats in the right place, looks things up on a particular Mac, and speaks up when a chat it started needs you. Shortcuts: Import chats, Organise recent chats, What's waiting on me?, Catch me up and Fresh start.</p>]]></description>
+      <enclosure url="https://github.com/iamchrishaigh/switchboard-releases/releases/download/v0.2/Switchboard.dmg" type="application/octet-stream" sparkle:edSignature="IM/cLiF5Dw2YpZGI3UMfYRZjISpzvjY8LM2yvoBklenUCViOWffdVnw+mOE3dUNr2UjJDVl9OCx+A4KfI2PmAA==" length="22510649"/>
+    </item>
+    <item>
       <title>Switchboard 0.1.6</title>
       <pubDate>Wed, 04 Nov 2026 21:10:19 GMT</pubDate>
       <sparkle:version>67</sparkle:version>
