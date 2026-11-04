@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Switchboard 0.1.4</title>
+      <pubDate>Wed, 04 Nov 2026 12:47:18 GMT</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Switchboard keeps Tailscale on, and shows a bar when it isn't. Settings › This Mac › Keep Tailscale on turns this off.</p>]]></description>
+      <enclosure url="https://github.com/iamchrishaigh/switchboard-releases/releases/download/v0.1.4/Switchboard.dmg" type="application/octet-stream" sparkle:edSignature="wijrz0BIp6+buXbMEGMKICNoV3EYIH0gV5QuAFEMg0DbaliMGRzfv0vMduqGS14FmeVmsyXzRDbgbkdqEL93AA==" length="21236233"/>
+    </item>
+    <item>
       <title>Switchboard 0.1.3</title>
       <pubDate>Tue, 03 Nov 2026 23:44:45 GMT</pubDate>
       <sparkle:version>51</sparkle:version>
