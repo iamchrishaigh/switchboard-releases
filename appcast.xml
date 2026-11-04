@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Switchboard 0.1.6</title>
+      <pubDate>Wed, 04 Nov 2026 21:10:19 GMT</pubDate>
+      <sparkle:version>67</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>A Mac keeps its own model (and its icon) when it re-syncs with the brain, even if it updated before the brain did.</p>]]></description>
+      <enclosure url="https://github.com/iamchrishaigh/switchboard-releases/releases/download/v0.1.6/Switchboard.dmg" type="application/octet-stream" sparkle:edSignature="5hM3KNecg0HEsUjSchE9IW8qv6+0xmqnEUGzZq0ZYnIdwxL/N7o1doqhgQFaOhaPceWlGSCawq4rbEtemQNeAA==" length="21294625"/>
+    </item>
+    <item>
       <title>Switchboard 0.1.5</title>
       <pubDate>Wed, 04 Nov 2026 20:11:57 GMT</pubDate>
       <sparkle:version>65</sparkle:version>
