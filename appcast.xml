@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Switchboard 0.1.5</title>
+      <pubDate>Wed, 04 Nov 2026 20:11:57 GMT</pubDate>
+      <sparkle:version>65</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Each Mac now shows as its own kind of device (Mac mini, MacBook Pro) in Settings, Run on, chat headers and History. Switchboard also skips messages it doesn't recognise, ready for the assistant.</p>]]></description>
+      <enclosure url="https://github.com/iamchrishaigh/switchboard-releases/releases/download/v0.1.5/Switchboard.dmg" type="application/octet-stream" sparkle:edSignature="ePjazQDgwTe2ImYZSho+qz03FN2JohvNH7PHJvkLH8Ym/T/wlFlWDMIMAeqVbMp7Lch70w01ti1nxPcADN8hBA==" length="21294916"/>
+    </item>
+    <item>
       <title>Switchboard 0.1.4</title>
       <pubDate>Wed, 04 Nov 2026 12:47:18 GMT</pubDate>
       <sparkle:version>53</sparkle:version>
