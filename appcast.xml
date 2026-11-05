@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Switchboard 0.2.6</title>
+      <pubDate>Thu, 05 Nov 2026 23:17:16 GMT</pubDate>
+      <sparkle:version>131</sparkle:version>
+      <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Replies show tables, statuses and warnings as cards. A session panel beside each chat shows where it runs, how full its context is, its connectors, the files it made and the code it changed, with previews from either Mac. Update both Macs together.</p>]]></description>
+      <enclosure url="https://github.com/iamchrishaigh/switchboard-releases/releases/download/v0.2.6/Switchboard.dmg" type="application/octet-stream" sparkle:edSignature="okIjDI9/Ke3lNoLnOFjVTZElKpZ3QCs1smmIxIcU7hNtdUAwMQtq08msb/w9kFS1IG0ZtheesmKo01FGHcXICg==" length="24038265"/>
+    </item>
+    <item>
       <title>Switchboard 0.2.5</title>
       <pubDate>Thu, 05 Nov 2026 21:29:08 GMT</pubDate>
       <sparkle:version>119</sparkle:version>
