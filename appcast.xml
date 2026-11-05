@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Switchboard 0.2.5</title>
+      <pubDate>Thu, 05 Nov 2026 21:29:08 GMT</pubDate>
+      <sparkle:version>119</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Clear chat for the assistant, and a message box that stands out from the page in dark mode.</p>]]></description>
+      <enclosure url="https://github.com/iamchrishaigh/switchboard-releases/releases/download/v0.2.5/Switchboard.dmg" type="application/octet-stream" sparkle:edSignature="LEsvgcB43T3IOT1rw+mIA5yeHByGDgi3GVLLBygpV+L895cDardoVVc2BjjCvBb4ISygpYKJd4SjQP52XSaTCA==" length="23616786"/>
+    </item>
+    <item>
       <title>Switchboard 0.2.4</title>
       <pubDate>Thu, 05 Nov 2026 15:06:59 GMT</pubDate>
       <sparkle:version>117</sparkle:version>
