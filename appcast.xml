@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Switchboard 0.2.3</title>
+      <pubDate>Thu, 05 Nov 2026 13:39:20 GMT</pubDate>
+      <sparkle:version>115</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Each chat has a Permissions menu in the message box, set to Auto by default, with Bypass permissions as an option. A reply's working steps now fold into one line you can open.</p>]]></description>
+      <enclosure url="https://github.com/iamchrishaigh/switchboard-releases/releases/download/v0.2.3/Switchboard.dmg" type="application/octet-stream" sparkle:edSignature="SJolPGY/aMoRQ80gsBuEkWrRvGYXlKlxMyZpxIFzN9xklJDy579gCnCcgIhhwQxCz53GBvWKBDEGcDj/tVFZBA==" length="22685356"/>
+    </item>
+    <item>
       <title>Switchboard 0.2.2</title>
       <pubDate>Thu, 05 Nov 2026 12:43:13 GMT</pubDate>
       <sparkle:version>112</sparkle:version>
