@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Switchboard 0.2.1</title>
+      <pubDate>Thu, 05 Nov 2026 11:38:58 GMT</pubDate>
+      <sparkle:version>108</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes a Mac losing touch with the brain after a network drop while still showing as linked. It now notices within about a minute and reconnects.</p>]]></description>
+      <enclosure url="https://github.com/iamchrishaigh/switchboard-releases/releases/download/v0.2.1/Switchboard.dmg" type="application/octet-stream" sparkle:edSignature="yxrXldnf/uHtw/4G52THXy4PCbZYZP+ps880E2OWPboTdTMKB1UyWo9Utk1k2P6dlLTu4XBOKuL8Rp7tc9FzDg==" length="22526116"/>
+    </item>
+    <item>
       <title>Switchboard 0.2</title>
       <pubDate>Wed, 04 Nov 2026 21:36:33 GMT</pubDate>
       <sparkle:version>104</sparkle:version>
