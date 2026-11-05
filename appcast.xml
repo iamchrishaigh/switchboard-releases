@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Switchboard 0.2.4</title>
+      <pubDate>Thu, 05 Nov 2026 15:06:59 GMT</pubDate>
+      <sparkle:version>117</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The message box is bigger and shows a moving border while Claude works. The assistant's history now shows straight away when you come back to Home.</p>]]></description>
+      <enclosure url="https://github.com/iamchrishaigh/switchboard-releases/releases/download/v0.2.4/Switchboard.dmg" type="application/octet-stream" sparkle:edSignature="x4A/41AH8O5fd1ts4vuQyh+pS31jpB0K/rYgSscJZqaKUbqRdauYE3ivRudwQFucub6gym47UyDqxx3Z6KoiBQ==" length="22693895"/>
+    </item>
+    <item>
       <title>Switchboard 0.2.3</title>
       <pubDate>Thu, 05 Nov 2026 13:39:20 GMT</pubDate>
       <sparkle:version>115</sparkle:version>
