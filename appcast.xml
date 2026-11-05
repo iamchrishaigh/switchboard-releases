@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- releases, newest first -->
     <item>
+      <title>Switchboard 0.2.2</title>
+      <pubDate>Thu, 05 Nov 2026 12:43:13 GMT</pubDate>
+      <sparkle:version>112</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The assistant can make and rename Spaces, projects and folders. Chats follow new messages unless you've scrolled well up. The conversation is easier to read, with tinted bubbles for your messages and quieter tool steps.</p>]]></description>
+      <enclosure url="https://github.com/iamchrishaigh/switchboard-releases/releases/download/v0.2.2/Switchboard.dmg" type="application/octet-stream" sparkle:edSignature="s7PnB0JSOVizTHyu4s04qNc7fatEfPJ0Einr64+DAiqxuGOjHG9XnaEBBTgeIwIcIrGrjGByT5Kf0iSUUFdOBQ==" length="22622138"/>
+    </item>
+    <item>
       <title>Switchboard 0.2.1</title>
       <pubDate>Thu, 05 Nov 2026 11:38:58 GMT</pubDate>
       <sparkle:version>108</sparkle:version>
